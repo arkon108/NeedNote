@@ -4,7 +4,7 @@
 
 * simple note keeping tool to replace index cards
 * when you're doing a pitch, holding a speech or a presentation, keep your "index cards" as notes on your phone
-* coded in 3 hours, evening before [@nedramcbeadra](http://twitter.com/nedramcbeadra/) emceed GOAP Zagreb, she used it for the introductory part of the event
+* coded in 3 hours, evening before [@nedralovesme](http://twitter.com/nedralovesme/) emceed GOAP Zagreb, she used it for the introductory part of the event
 
 ## Features
 
